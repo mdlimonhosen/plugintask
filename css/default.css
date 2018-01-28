@@ -1,0 +1,36 @@
+#tooltip {
+    background: #e3e3e3 url(../images/search2.png) no-repeat 5px 50%;
+    border: 2px solid #BFBFBF;
+    float: left;
+    font-size: 10px;
+    max-width: 300px;
+    background-size: contain;
+    padding: 1em 3em 1em 3em;
+    position: absolute;
+    padding-left:60px;
+    left:2px;
+}
+ 
+.rounded {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+.red{
+  color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color: green;
+}
+
+
+.padding{
+padding:5px;
+
+
+}
