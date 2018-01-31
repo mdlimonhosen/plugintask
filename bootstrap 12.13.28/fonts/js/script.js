@@ -1,0 +1,8 @@
+$(function(){
+$('#coin-slider').coinslider();
+})
+
+
+
+
+
